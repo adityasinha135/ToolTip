@@ -1,0 +1,22 @@
+
+.footer{
+    margin-top: 1rem;
+    padding: 1rem;
+    background-color: rgb(235, 195, 64);
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+  }
+
+  .foot-btn{
+        width : 100px;
+        height : 100px;
+        border-radius: 50px;
+        transition-duration: 0.4s;
+  }
+
+  .foot-btn:hover{
+    background-color: #4CAF50; /* Green */
+    color: white;
+  }
